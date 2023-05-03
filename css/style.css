@@ -17,7 +17,7 @@ h3 {
 }
 
 h4 {
-	color: grey;
+	color: rgba(194, 160, 98, 0.839);
 	display: inline-block;
 }
 
@@ -41,11 +41,11 @@ table {
 
 th {
 	background-color: white;
-	color: #2b2b2b;
+	color: #978f4fd2;
 }
 
 td, th {
-	border: 1px solid white;
+	border: 1px solid rgba(255, 255, 255, 0.918);
 	padding: 8px 65px;
 
 }
@@ -55,7 +55,7 @@ td, th {
 }
 
 .doctable-table .emphasis {
-	color: #09f2c3;
+	color: #b6cd30d6;
 }
 
 
