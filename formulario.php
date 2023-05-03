@@ -27,7 +27,7 @@
     <style>
         body{
             font-family: Arial, Helvetica, sans-serif;
-            background-color: rgba(0, 0, 0, 0.6);
+            background-color: rgba(255, 255, 220, 0.6);
         }
         .box{
             color: white;
