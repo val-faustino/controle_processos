@@ -55,7 +55,7 @@
 
 ?>
 
-		<?php include 'functions/bottom_index.php'; ?>
+<?php include 'functions/bottom_index.php'; ?>
 
 
 	</body>
